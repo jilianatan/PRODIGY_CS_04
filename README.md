@@ -19,7 +19,7 @@ This project demonstrates a basic keylogger program that records and logs keystr
 1. Clone this repository to your local machine:
 
     ```sh
-    git clone https://github.com/oraclebrain/PRODIGY_CS_04.git
+    git clone https://github.com/jilianatan/PRODIGY_CS_04.git
     ```
 
 2. Navigate to the project directory:
